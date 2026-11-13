@@ -1,0 +1,8 @@
+{
+  "name": "萬經閣守護書靈",
+  "description": "《神域與萬界樹》核心中心區萬經閣守護書靈互動問答與典籍鑑賞閣",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
